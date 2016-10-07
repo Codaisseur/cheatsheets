@@ -1,4 +1,6 @@
-##Navigating
+# Capybara
+
+## Navigating
 
 ```ruby
 visit('/projects')
